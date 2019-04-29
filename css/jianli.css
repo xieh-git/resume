@@ -1,0 +1,43 @@
+.container{
+	
+}
+.jumbotron{
+	text-align:center;
+	/* height: 2500px; */
+	font-family:'宋体';
+}
+.message{
+	background-color: #00ACEC;
+	text-align: left;
+	padding-left:10px;
+	border-radius: 5px;
+	margin-top: 20px;
+	font-size: 25px;
+	
+}
+.mydetial-message,
+.job-want,
+.old-job,
+.my p
+{
+	text-align: left;
+	font-size: 16px;
+}
+
+.mydetial-message table>tbody>tr>td,
+.job-want table>tbody>tr>td,
+.old-job table>tbody>tr>td
+{
+	border: 0px;
+}
+
+.skill-message p,
+.xiangmu p,
+.xiangmu p>strong
+{
+	text-align: left;
+	font-size: 16px;
+}
+
+
+
