@@ -17,7 +17,7 @@
 }
 .mydetial-message,
 .job-want,
-.old-job,
+.old-job p,
 .my p
 {
 	text-align: left;
@@ -25,8 +25,7 @@
 }
 
 .mydetial-message table>tbody>tr>td,
-.job-want table>tbody>tr>td,
-.old-job table>tbody>tr>td
+.job-want table>tbody>tr>td
 {
 	border: 0px;
 }
