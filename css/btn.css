@@ -1,0 +1,32 @@
+.btn{
+	width: 600px;
+	position: relative;
+	margin: 0 auto;
+	margin-top: 40px;
+}
+#pc{
+	width: 180px;
+	height: 80px;
+	text-align: center;
+	background-color: #00ACEC;
+	border: none;
+	font-size: 18px;
+	font-family: "宋体";
+	cursor: pointer;
+	position: absolute;
+	left: 0;
+	border-radius: 8px;
+}
+#mobile{
+	width: 180px;
+	height: 80px;
+	text-align: center;
+	background-color: #00ACEC;
+	border: none;
+	font-size: 18px;
+	font-family: "宋体";
+	cursor: pointer;
+	position: absolute;
+	right: 0;
+	border-radius: 8px;
+}
